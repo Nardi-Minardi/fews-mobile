@@ -79,7 +79,7 @@ const CustomDrawerContent = (props: any) => {
               key={route.key}
               style={{
                 borderRadius: 10,
-                overflow: 'hidden', // wajib
+                overflow: 'hidden',
               }}
             >
               <Pressable
